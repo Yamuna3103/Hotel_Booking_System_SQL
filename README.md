@@ -67,7 +67,7 @@ ORDER BY B.check_in;
 ✅ Automated room allocation & booking confirmations
 ✅ Reduced manual errors with SQL-driven queries
 ✅ Improved booking efficiency & reporting
-
+---
 ##🌟 Future Enhancements
 
 🔹 Loyalty program for frequent customers
